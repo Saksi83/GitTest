@@ -1,0 +1,161 @@
+initctl: Unable to connect to Upstart: Failed to connect to socket /com/ubuntu/upstart: Connection refused
+syndaemon: no process found
+/etc/mdm/Xsession: Beginning session setup...
+localuser:mint being added to access control list
+** Message: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+SSH_AUTH_SOCK=/run/user/999/keyring/ssh
+SSH_AUTH_SOCK=/run/user/999/keyring/ssh
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Software rendering detected: Gallium 0.4 on llvmpipe (LLVM 3.8, 256 bits)
+Cjs-Message: JS LOG: About to start Cinnamon
+Cjs-Message: JS LOG: ACTIVATING SOFTWARE RENDERING
+St-Message: cogl npot texture sizes SUPPORTED
+Cjs-Message: JS LOG: Cinnamon started at Tue Feb 21 2017 10:08:21 GMT+0000 (UTC)
+Cjs-Message: JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: JS LOG: Invalid network device type, is 14
+Cjs-Message: JS LOG: network applet: Found connection for active
+[1487671697,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 1015
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 1015
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 720
+     height: 400
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VGA-1
+     status: on
+     width: 1920
+     height: 975
+     rate: 60
+     primary: true
+     position: 0 0
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion '!window->override_redirect' failed
